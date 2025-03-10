@@ -1,0 +1,94 @@
+.body { 
+    text-align: center;
+    padding: 20px;
+    background-color: #FAEBD7;
+}
+
+h1 {
+    margin-top: 30px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+h2 {
+    margin-top: 30px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+p {
+    text-align: left;
+}
+
+.li-desc {
+    text-align: left;
+    margin: 10px 0;
+}
+
+.ul-desc {
+    margin-bottom: 50px;
+}
+
+.table-container {
+    margin: auto;
+    padding: 10px;
+    max-width: 90%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    border: 2px solid black;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #E6E6FA;
+    font-weight: bold;
+}
+
+.question {
+    font-weight: bold;
+}
+
+.divider {
+    border: 2px solid black;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.kiosk-image {
+    width: 80%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+.profile-image {
+    width:20%;
+    height:20%;
+}
+
+.map-image {
+    width: 60%;
+    height: 60%;
+    padding-bottom: 50px;
+}
