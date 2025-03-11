@@ -51,7 +51,7 @@ const Body = () => {
             with the kiosk will be observed and users will be interviewed on their experiences with the interface. From these
             observations and interviews, personas will be created to represent the different types of users that interact with
             the kiosk. These personas will be used to create a storyboard that will show how certain users may interact with
-            the kiosk. The goal of this project is to better understand how users interact with the kiosk interface, and possible improvements that could be made to it.</p>
+            the kiosk. The goal of this project is to better understand how users interact with the kiosk interface, and find possible improvements that could be made to it.</p>
 
             <h1>Interface</h1>
             <p>The interface I chose to study was the Ten One Tea House ordering kiosk because it is an interface I interact with often and I'm interested in investigating how different my expereince may differ from other people using the same kiosk. 
@@ -62,7 +62,7 @@ const Body = () => {
             select and customize drinks, and prompt the user to make a payment. There is then a card swiper/scanner to allow users to make payment transactions.</p>
             <h1>User Responses</h1>
             <p>To gather more information on how this interface is being interacted with, more specifically what about the interface is good and what could be improved.
-            I gathered data by obsevring and interviewing 3 users after they used the kiosk, asking the following questions:</p>
+            I gathered data by observing and interviewing 3 users after they used the kiosk, asking the following questions:</p>
             <div className="table-container">
                 <table>
                     <thead>
@@ -86,7 +86,7 @@ const Body = () => {
                 </table>
             </div>
             <h1>Response Summaries</h1>
-            <p>I then summarized the responses from the users to see overarching trends in what users found good in the interface and what needs improvements.</p>
+            <p>I then summarized the responses from the users to see overarching trends in what users found good in the interface and what may need improvements.</p>
             <div className="table-container">
                 <table>
                     <thead>
@@ -113,8 +113,8 @@ const Body = () => {
             </div>
             <h1>User Action Observations</h1>
             <p>During the study I also made an objective list of actions that users took while interacting with the kiosk to
-                further help in my study of the interface, splitting my observations into how users navigated the interface, and 
-                decisions they made within it.</p>
+                further help in my study of the interface. I split my observations into how users navigated the interface, and 
+                decisions users made within it.</p>
             <div className="table-container">
                 <table>
                     <thead>
@@ -153,7 +153,7 @@ const Body = () => {
             <ul className='ul-desc'>
                 <li className='li-desc'><strong>Description:</strong> A college student who likes getting boba often. An ambitious and diligent person who enjoys taking breaks, especially for boba.</li>
                 <li className='li-desc'><strong>Problems Vivienne faces:</strong> A problem Vivienne faces is that she has to go through the entire process over and over again when ordering a drink. She has to remake her favorite order and decline paper cups every time she visits.</li>
-                <li className='li-desc'><strong>Why Vivienne?</strong> The majority of people who drink boba at Ten One Tea House are college students. A large number of people who go to Ten One Tea House have previously been there and are familiar with the ordering kiosk. Vivienne’s experience and problems with the interface are shared by many, making her persona one that encompasses a large population of users.</li>
+                <li className='li-desc'><strong>Why Vivienne?</strong> The majority of people who drink boba at Ten One Tea House are college students. A large number of people who go to Ten One Tea House have previously been there and are familiar with the ordering kiosk. Vivienne’s experience and problems with the interface are common, making her persona one that encompasses a large population of users.</li>
             </ul>
 
             <img src={vivienneMap} alt="Vivienne Empathy Map" className="map-image" />
@@ -162,9 +162,9 @@ const Body = () => {
             <img src={tomPicture} alt="Tom" className="profile-image" />
 
             <ul className='ul-desc'>
-                <li className='li-desc'><strong>Description:</strong> A millennial consultant who is in the workforce. Lives a simple and frugal life but wants to keep up with the younger generation.</li>
+                <li className='li-desc'><strong>Description:</strong> A millennial consultant who is in the workforce. Lives a simple and frugal life, but wants to keep up with the younger generation.</li>
                 <li className='li-desc'><strong>Problems Tom faces:</strong> Tom struggles with selecting a drink he wants and has to constantly scroll through all of the options. He is also confused about what comes with his drink.</li>
-                <li className='li-desc'><strong>Why Tom?</strong> People who have not had boba or do not know what it is may struggle with choosing a drink. People ordering boba for the first time will learn and interact with the kiosk the most to learn more about their drink options and what/how to order. Tom’s experience encompasses the problems of someone having boba or interacting with this interface for the first time, which has been everyone at least once.</li>
+                <li className='li-desc'><strong>Why Tom?</strong> People who have not had boba or do not know what it is may struggle with choosing a drink. People ordering boba for the first time will interact with the kiosk the most to learn more about their drink options and what/how to order. Tom’s experience encompasses the problems of someone having boba or interacting with this interface for the first time, which has been everyone at least once.</li>
             </ul>
 
             <img src={tomMap} alt="Tom Empathy Map" className="map-image" />
