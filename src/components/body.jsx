@@ -51,10 +51,11 @@ const Body = () => {
             with the kiosk will be observed and users will be interviewed on their experiences with the interface. From these
             observations and interviews, personas will be created to represent the different types of users that interact with
             the kiosk. These personas will be used to create a storyboard that will show how certain users may interact with
-            the kiosk.</p>
+            the kiosk. The goal of this project is to better understand how users interact with the kiosk interface, and possible improvements that could be made to it.</p>
 
             <h1>Interface</h1>
-            <p>The interface I chose to study was the Ten One Tea House ordering kiosk, because it is an interface I interact with often. Below is a simplified diagram with the key compoenents of the interface:</p>
+            <p>The interface I chose to study was the Ten One Tea House ordering kiosk because it is an interface I interact with often and I'm interested in investigating how different my expereince may differ from other people using the same kiosk. 
+                Below is a simplified diagram with the key compoenents of the interface:</p>
             <img src={interfaceImage} alt="Kiosk Interface" className="kiosk-image" />
             <p className='center'>The kiosk is trying to reduce the workload of drink orders on workers and streamline the ordering process for users. The interface is a physical kiosk that is attached to the kisok stand
             The kiosk interface is a touch screen that allows users to select and order drinks from the Ten One Tea House menu. The interface has several digital components (ex. buttons, side menu) that allow users to navigate through the menu, 
