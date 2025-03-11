@@ -18,7 +18,7 @@ const questions = [
 
 const responses = [
     ["Entered my phone number", "Read the text at the top of the kiosk", "Tapped the screen and started entering my phone number before I realized I could skip this step"],
-    ["No", "When I clicked on the drink I wanted I tried to add to my bag but it wouldn't let me. I later found out there were required options I had to fill out.", "At first I didn't know what tabs to look at since there were so many options to scroll through and look at."],
+    ["No", "When I clicked on the drink I wanted I tried to add to my bag but it wouldn't let me. I later found out there were required options I had to fill out", "At first I didn't know what tabs to look at since there were so many options to scroll through and look at"],
     ["Not sure, the interface is very user-friendly", "Change the layout to make all the options available easier to see and look through", "Change the color and size of text on the screen to make descriptions easier to read"],
     ["Having a fun button to press instead of just tapping on the screen", "Show a grouping of the most popular drinks so I know what people like getting here", "If I could read the full description of the menu item without clicking on the item itself"]
 ];
@@ -26,15 +26,15 @@ const responses = [
 const summaries = [
     ["Users tapped on the screen immediately or read the tape at the top and bottom of the kiosk briefly"],
     ["Users were not aware of required options to select when customizing drink", "Too many categories and options to look through"],
-    ["Making the drinks more discoverable and easier to look through. Avoid having users scroll up and down multiple times.", "Make the descriptions of the drinks easier to read or access."],
+    ["Making the drinks more discoverable and easier to look through. Avoid having users scroll up and down multiple times.", "Make the descriptions of the drinks easier to read or access"],
     ["Knowing what drinks are most popular and most ordered to avoid having to choose and look through all of the options", "Having a start button on the main screen makes entering more satisfying"]
 ];
 
 const userBehavior = [
-    "Users scrolled through the entire menu once or several times.",
-    "Ordered only 1 drink and then went immediately to the checkout.",
-    "Users learned the interface quickly.",
-    "Fast process from beginning to end."
+    "Users scrolled through the entire menu once or several times",
+    "Ordered only 1 drink and then went immediately to the checkout",
+    "Users learned the interface quickly",
+    "Fast process from beginning to end"
 ];
 
 const purchaseDecisions = [
@@ -170,7 +170,7 @@ const Body = () => {
 
             <h1>Storyboard</h1>
             <p>To understand how these personas would interact with the interface in a visual way, I created a storyboard that follows the Tom persona, 
-                detailing how Tom would interact with the kiosk interface from start to finish</p>
+                detailing how Tom would interact with the kiosk interface from start to finish.</p>
             <img src={storyboardImage} alt="Storyboard" className="storyboard-image" />
 
             <h1>Conclusions</h1>
