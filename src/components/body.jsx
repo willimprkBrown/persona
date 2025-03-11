@@ -50,7 +50,7 @@ const Body = () => {
             <p>This project will look at the experiences of users with the Ten One Tea House ordering kiosk. User interactions
             with the kiosk will be observed and users will be interviewed on their experiences with the interface. From these
             observations and interviews, personas will be created to represent the different types of users that interact with
-            the kiosk. These personas will be used to create a storyboard that will show how certain users are expected to interact with
+            the kiosk. These personas will be used to create a storyboard that will show how certain users may interact with
             the kiosk.</p>
 
             <h1>Interface</h1>
@@ -174,9 +174,9 @@ const Body = () => {
             <img src={storyboardImage} alt="Storyboard" className="storyboard-image" />
 
             <h1>Conclusions</h1>
-            <p>After observing and interviewing users in-person and creating personas to gain further perspective on the Ten One Tea House kiosk interface,
+            <p> After observing and interviewing users in-person and creating personas to gain further perspective on the Ten One Tea House kiosk interface,
                 I was able to gain a better understanding of how a variety of users interact with the interface and what could be improved. Before collecting data
-                from users and creating personas, my personal experience with the kiosk was that it was easy to use and navigate. However after conducting this study, I realized that the interface 
+                from users and creating personas, my personal experience with the kiosk was that it was easy to use and navigate. However after conducting this study, I was surprised at how many ways the interface 
                 could be improved to make the ordering process more efficient and enjoyable for many different types users.
             </p>
 
